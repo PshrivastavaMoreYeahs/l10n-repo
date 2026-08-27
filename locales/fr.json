@@ -9,5 +9,6 @@
   "error.network": "Impossible de joindre le serveur. Vérifiez votre connexion.",
   "dialog.confirm": "Confirmer",
   "dialog.cancel": "Annuler",
-  "legacy.welcome": "Bienvenue"
+  "legacy.welcome": "Bienvenue",
+  "text_key": "test1111"
 }
