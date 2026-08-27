@@ -10,5 +10,9 @@
   "update.none": "Ihr Gerät ist aktuell",
   "error.network": "Server nicht erreichbar. Prüfen Sie Ihre Verbindung.",
   "dialog.confirm": "Bestätigen",
-  "dialog.cancel": "Abbrechen"
+  "dialog.cancel": "Abbrechen",
+  "error.generic": "Something went wrong. Try again.",
+  "footer.copyright": "hkshskdhskjds",
+  "nav.help": "hgdkgdkqhd",
+  "nav.support": "dgkgkhewkew"
 }

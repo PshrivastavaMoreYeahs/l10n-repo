@@ -58,6 +58,9 @@ def validate_locale(source_strings, locale_path):
         if translated_value == "":
             issues.append(f"Empty value: {key}")
 
+        if translated_value ==  source_strings[key]:
+            issues.append(f"Equal to English value {key}")
+
         expected = extract_placeholders(source_strings[key])
         actual = extract_placeholders(translated_value)
         if expected != actual:
